@@ -1,19 +1,33 @@
 * {
-  --primary-color: #354e33;
-  --primary-color-rgb: 53, 78, 51;
-  --secondary-color: #798d7a;
-  --secondary-color-rgb: 121, 141, 122;
-  --background:#F8FBF3;
-  --title-font-color: #354e33;
-  --body-font-color: #596a5a;
-  --dark-body-font-color: rgba(255, 255, 255, .75);
-  --bg-color-even: #E8E8E8;
-  --bg-color-odd: #F4F4F4;
-  --bg-dark-1: #354e33;
-  --bg-dark-1-rgb: 53, 78, 51;
-  --bg-dark-2: #2a3e28;
-  --bg-dark-3: #2e452c;
-  --bg-dark-3-rgb: 46, 69, 44;
-  --bg-grey: #F0F1F3;
-  --bg-light: #E1EBE2;
+  /* PRIMARY – Water / Technology Blue */
+  --primary-color: #137DB0;
+  --primary-color-rgb: 19, 125, 176;
+
+  /* SECONDARY – Environmental Green (balances blue) */
+  --secondary-color: #000;
+  --secondary-color-rgb: 78, 124, 89;
+
+  /* BACKGROUND – Clean, airy */
+  --background: #F6FAFC;
+
+  /* TEXT COLORS */
+  --title-font-color: #1F3A4A;        /* Strong blue-grey for headings */
+  --body-font-color: #4B5F6B;         /* Soft readable body text */
+  --dark-body-font-color: rgba(255, 255, 255, 0.85);
+
+  /* SECTION BACKGROUNDS */
+  --bg-color-even: #EDF3F7;
+  --bg-color-odd: #F8FBFD;
+
+  /* DARK SECTIONS */
+  --bg-dark-1: #0F4E6E;               /* Deep engineering blue */
+  --bg-dark-1-rgb: 15, 78, 110;
+
+  --bg-dark-2: #0C3E57;
+  --bg-dark-3: #134B63;
+  --bg-dark-3-rgb: 19, 75, 99;
+
+  /* GREY / LIGHT */
+  --bg-grey: #EEF2F5;
+  --bg-light: #E6F1F6;
 }
